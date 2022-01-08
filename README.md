@@ -4,6 +4,9 @@
 
 Data was taken from [here](https://www.dropbox.com/sh/l01yg08wj6cmfj4/AAA-EsRDPw4qaJE3t8UWvUfZa?dl=0)
 
+## Analysis
+[Link to kolab](https://colab.research.google.com/drive/1EMdpxmPCcW5tfQTsjCv80aLd3Hkh89B-?usp=sharing)
+
 ## References
 
 1. http://ogrisel.github.io/scikit-learn.org/sklearn-tutorial/tutorial/astronomy/
