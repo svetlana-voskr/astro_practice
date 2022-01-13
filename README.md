@@ -1,7 +1,5 @@
 # Astro_practice
 
-## Data
-
-Data was taken from [here]()
+Here is a practice with different types of data
 
 
