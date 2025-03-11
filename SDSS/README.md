@@ -1,9 +1,16 @@
-## Data
+# Machine Learning Applications for Sloan Digital Sky Survey (SDSS) Data
+
+A repository demonstrating machine learning techniques applied to astronomical data from the Sloan Digital Sky Survey (SDSS).
+
+## 📖 Overview
+This project explores the application of machine learning to SDSS data, aiming to solve astronomical classification, regression, or clustering tasks. The SDSS is a monumental multi-spectral imaging and spectroscopic survey that has revolutionized astronomy, and this repository provides tools to analyze its rich dataset with modern ML techniques.
+
+## 📊 Data Sources
 
 Data was taken from [here](https://www.dropbox.com/sh/l01yg08wj6cmfj4/AAA-EsRDPw4qaJE3t8UWvUfZa?dl=0)
 
 ## Analysis
-[Link to colab](https://colab.research.google.com/drive/1EMdpxmPCcW5tfQTsjCv80aLd3Hkh89B-?usp=sharing)
+[Link to github ipynb](https://github.com/svetlana-voskr/astro_practice/edit/lana/SDSS/practice.ipynb)
 
 ## References
 
